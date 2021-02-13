@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning c++ java and php
 - 💬 Ask me about anything
 
