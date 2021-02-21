@@ -1,5 +1,15 @@
 
-### Hi there 👋
+### Welcome to my profile 👋
+
+<h1 align='center'>
+  Hi there 👋 I'm Tanjil 👨‍💻
+</h1>
+
+<p align='center'>
+  A student of IT systems management and programming from Porto, Portugal.
+</p>
+
+
 - 🏢 Student of ESFV Filipa de Vilhena
 - 💻 TGPSI
 - 🌱 I’m currently learning c++ java and php
