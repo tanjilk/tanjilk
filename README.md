@@ -7,8 +7,8 @@
 </p>
 
 - 🏢 Student of ESFV Filipa de Vilhena
-- 💻 TGPSI&nbsp;
 - 🌱 I’m currently learning c++ java and php
+- 💻 TGPSI
 - 💬 Ask me about anything
 - 💬 My discord: tanjil#1398
 
