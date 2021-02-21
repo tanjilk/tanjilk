@@ -1,8 +1,6 @@
 
 
-<h1 align='center'>
-  Hi there 👋 I'm Tanjil 👨‍💻
-</h1>
+<h1 align='center'>Hi there 👋 I'm Tanjil 👨‍💻</h1>
 
 <p align='center'>
   A student of IT systems management and programming from Porto, Portugal.
