@@ -7,9 +7,9 @@
 </p>
 
 <p align='center'>
-- 🏢 Student of ESFV Filipa de Vilhena
-- 💻 TGPSI
-- 🌱 I’m currently learning c++ java and php
+- 🏢 Student of ESFV Filipa de Vilhena  
+- 💻 TGPSI  
+- 🌱 I’m currently learning c++ java and php  
 - 💬 Ask me about anything  
 </p>
 
