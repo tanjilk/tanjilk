@@ -6,7 +6,7 @@
   A student of IT systems management and programming from Porto, Portugal.
 </p>
 
-- 🏢 Student of ESFV Filipa de Vilhena
+- 🏢 Student of ESFV
 - 🌱 I’m currently learning c++ java and php
 - 💬 Ask me about anything
 - 💬 My discord: tanjil#1398
