@@ -7,7 +7,7 @@
 </p>
 
 - 🏢 Student of ESFV
-- 🌱 I’m currently learning c++ java and php
+- 🌱 I’m currently learning PHP
 - 💬 Ask me about anything
 - 💬 My discord: tanjil#1398
 
