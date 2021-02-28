@@ -18,6 +18,7 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanjilk&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilk&theme=blue-green)
 
 
 
