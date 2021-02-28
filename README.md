@@ -16,7 +16,7 @@
 </p>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanjilk&show_icons=true&theme=radical)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanjilk&theme=blue-green)
 
 
