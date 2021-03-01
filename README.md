@@ -5,7 +5,7 @@
 <p align='center'>
   A student of IT systems management and programming from Porto, Portugal.
 </p>
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png =50x50)
+
 
 - 🏢 Student of ESFV
 - 🌱 I’m currently learning PHP
