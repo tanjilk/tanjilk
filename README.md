@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanjilk&show_icons=true&locale=en" alt="tanjilk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilk&" alt="tanjilk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilk&theme=blue-green" alt="tanjilk" /></p>
 
   
 
